@@ -1,0 +1,11 @@
+This is a sample text file used for testing the DOS text editor.
+You can load this file, edit it, add new lines, and then save it again.
+
+The editor should keep everything from this original text
+and append anything new that you type afterwards.
+
+Make sure that saving works correctly
+and that the output file includes both the old content
+and whatever you have added manually.
+
+End of test input.
