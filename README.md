@@ -1,2 +1,4 @@
 # Text-editor-with-assembly
-I made this project for our assembly course at FCIS in Mansoura university
+I've tried to make a text editor using assembly only
+I thought it would be a cool project for our assembly course
+
